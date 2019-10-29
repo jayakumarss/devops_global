@@ -1,0 +1,23 @@
+{
+  "is_fulfillment": false,
+  "license_condition": null,
+  "license_model": "none",
+  "license_roles": null,
+  "name": "u_devops_global",
+  "op_delete": true,
+  "op_insert": true,
+  "op_update": true,
+  "owner_condition": null,
+  "sys_class_name": "ua_table_licensing_config",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-29 14:52:58",
+  "sys_id": "24780d25db700010343f58b3ca96198f",
+  "sys_mod_count": 0,
+  "sys_name": "u_devops_global",
+  "sys_package": "94784525db700010343f58b3ca961925",
+  "sys_policy": null,
+  "sys_scope": "94784525db700010343f58b3ca961925",
+  "sys_update_name": "ua_table_licensing_config_24780d25db700010343f58b3ca96198f",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-29 14:52:58"
+}
